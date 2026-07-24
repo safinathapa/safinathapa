@@ -16,7 +16,9 @@ I'm a Computer Science student at Florida International University (Honors Colle
 ## 📌 Featured Projects
 - **[AI Search Lab](https://github.com/nganhavu237/AI_Search_Lab_Final)** *(team project)* — Implemented A*, BFS, and Dijkstra's algorithms to solve the 8-puzzle problem, with interactive puzzle-solving and algorithm comparison
 - **[ChefMate Recipe App](https://github.com/safinathapa/recipe-app-ios)** — iOS recipe app in Swift/UIKit with browsing, filtering, and favorites, built on structured local data models
+- **[TaskList](https://github.com/safinathapa/ios101-project7)** — Task management app in Swift with local persistence via UserDefaults + Codable, calendar view, and animated task completion states
 - **[Wordle iOS App](https://github.com/safinathapa/ios101-project2-wordle)** — Wordle-inspired iOS game in Swift with custom 7-letter gameplay, input validation, and interactive feedback
+
 
 ## 📫 Contact
 - 💼 [LinkedIn](https://www.linkedin.com/in/safinathapa)
