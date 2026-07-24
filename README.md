@@ -1,7 +1,7 @@
 
 # Hi, I'm Safina Thapa 👋
 
-I'm a Computer Science student at Florida International University (Honors College, 3.97 GPA) working toward a career in software engineering. I enjoy building things end-to-end — from iOS apps to ML models — and learning how to write cleaner, more efficient code along the way.
+I'm a Computer Science student at Florida International University (Honors College, 3.97 GPA) working toward a career in software engineering. I enjoy building things end-to-end - from iOS apps to ML models - and learning how to write cleaner, more efficient code along the way.
 
 ## 🔧 Currently
 - Building ML skills as a **Break Through Tech AI Fellow** (Cornell Tech) — Python, pandas, scikit-learn
